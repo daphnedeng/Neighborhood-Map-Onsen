@@ -3,7 +3,7 @@
 ## Run this application:
 1. Clone this git repository
 ```
-git clone https://github.com/daphnedeng/Hokkaido-Onsen.git
+git clone https://github.com/daphnedeng/Neighborhood-Map-Onsen.git
 ```
 2. Go into the application folder
 ```
