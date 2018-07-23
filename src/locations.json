@@ -1,0 +1,32 @@
+[
+    {
+       "name" : "Ryotei Hanayura",
+       "latitude" : 42.495707,
+       "longitude" : 141.141354,
+       "website" : "http://www.hanayura.com/"
+    },
+    {       
+       "name" : "Lake Abashiri Tsuruga Resort",
+       "latitude" : 43.968583,
+       "longitude" : 144.211227,
+       "website" : "https://www.hokutennooka.com/"
+    },
+    {        
+       "name" : "La Vista Kushirogawa",
+       "latitude" : 42.982450,
+       "longitude" : 144.385550,
+       "website" : "https://www.hotespa.net/hotels/kushirogawa/"
+    },
+    {
+       "name" : "Jozankei Onsen",
+       "latitude" : 42.968792,
+       "longitude" : 141.166897,
+       "website" : "http://jozankei.jp/en/"
+    },
+    {        
+       "name" : "Asahidake Onsen",
+       "latitude" : 43.648062,
+       "longitude" : 142.790036,
+       "website" : "https://www.yukoman.jp/"
+    }
+]
