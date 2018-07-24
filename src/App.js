@@ -23,7 +23,7 @@ class App extends Component {
 
   componentDidMount() {
     window.initMap = this.initMap;
-    onScriptLoad('https://maps.googleapis.com/maps/api/js?key=AIzaSyB4YAvdO8Jt8DwnLh5hHbfOeZ4qAtL7QMs&callback=initMap')
+    onScriptLoad('https://maps.googleapis.com/maps/api/js?key=AIzaSyB4YAvdO8Jt8DwnLh5hHbfOeZ4qAtL7QMs&callback=initMap&onerror=googleError()')
   }
 
   //render map once the google map script is loaded
